@@ -1,0 +1,4 @@
+git checkout master
+git add *
+git commit -m"version updated by kiran"
+git push origin master
